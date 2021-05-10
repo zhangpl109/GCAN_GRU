@@ -1,0 +1,2 @@
+{'hidden_size': 256, 'num_layers': 2, 'batch_size': 512, 'learning_rate': 0.001, 'num_samples': 8192, 'keep_prob': 0.5, 'max_length': 15, 'alpha': 0.9, 'beta': 0.9, 'data_path': '../datasets/old/', 'log_file_path': 'log/..-datasets-old-15l_21-04-17-22-35.log'}
+epoch:0, Hits@1:0.000, Hits@10:0.000, MR:367.887, MRR:0.005, mean_loss:10000.000

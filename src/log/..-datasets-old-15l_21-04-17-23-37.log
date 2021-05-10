@@ -1,0 +1,6 @@
+{'hidden_size': 256, 'num_layers': 2, 'batch_size': 512, 'learning_rate': 0.001, 'num_samples': 8192, 'keep_prob': 0.5, 'max_length': 15, 'alpha': 0.9, 'beta': 0.9, 'data_path': '../datasets/old/', 'log_file_path': 'log/..-datasets-old-15l_21-04-17-23-37.log'}
+epoch:0, Hits@1:0.000, Hits@10:0.028, MR:405.549, MRR:0.014, mean_loss:10000.000
+epoch:637, Hits@1:0.976, Hits@10:1.000, MR:1.027, MRR:0.988, mean_loss:40.019
+{'hidden_size': 256, 'num_layers': 2, 'batch_size': 512, 'learning_rate': 0.001, 'num_samples': 8192, 'keep_prob': 0.5, 'max_length': 15, 'alpha': 0.9, 'beta': 0.9, 'data_path': '../datasets/old/', 'log_file_path': 'log/..-datasets-old-15l_21-04-17-23-37.log'}
+epoch:0, Hits@1:0.000, Hits@10:0.014, MR:383.014, MRR:0.007, mean_loss:10000.000
+epoch:637, Hits@1:0.976, Hits@10:1.000, MR:1.027, MRR:0.988, mean_loss:40.056

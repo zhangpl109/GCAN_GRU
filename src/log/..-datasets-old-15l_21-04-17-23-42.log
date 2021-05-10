@@ -1,0 +1,14 @@
+{'hidden_size': 256, 'num_layers': 2, 'batch_size': 512, 'learning_rate': 0.001, 'num_samples': 8192, 'keep_prob': 0.5, 'max_length': 15, 'alpha': 0.9, 'beta': 0.9, 'data_path': '../datasets/old/', 'log_file_path': 'log/..-datasets-old-15l_21-04-17-23-42.log'}
+epoch:0, Hits@1:0.000, Hits@10:0.000, MR:344.887, MRR:0.007, mean_loss:10000.000
+epoch:1, Hits@1:0.014, Hits@10:0.028, MR:326.268, MRR:0.029, mean_loss:19457.883
+epoch:2, Hits@1:0.014, Hits@10:0.042, MR:273.789, MRR:0.038, mean_loss:148.072
+epoch:3, Hits@1:0.042, Hits@10:0.239, MR:181.817, MRR:0.101, mean_loss:120.627
+epoch:4, Hits@1:0.761, Hits@10:0.845, MR:21.704, MRR:0.783, mean_loss:99.029
+epoch:5, Hits@1:0.986, Hits@10:1.000, MR:1.014, MRR:0.993, mean_loss:64.152
+epoch:6, Hits@1:0.986, Hits@10:1.000, MR:1.014, MRR:0.993, mean_loss:49.501
+epoch:7, Hits@1:0.986, Hits@10:1.000, MR:1.014, MRR:0.993, mean_loss:43.777
+epoch:8, Hits@1:1.000, Hits@10:1.000, MR:1.000, MRR:1.000, mean_loss:41.382
+epoch:9, Hits@1:1.000, Hits@10:1.000, MR:1.000, MRR:1.000, mean_loss:40.088
+epoch:10, Hits@1:1.000, Hits@10:1.000, MR:1.000, MRR:1.000, mean_loss:39.356
+epoch:11, Hits@1:1.000, Hits@10:1.000, MR:1.000, MRR:1.000, mean_loss:38.818
+epoch:11, Hits@1:0.107, Hits@10:0.466, MR:58.551, MRR:0.215, mean_loss:38.818
